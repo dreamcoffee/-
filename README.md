@@ -10,7 +10,6 @@
 # 진행상황
 - 임시로 리뷰 데이터를 가져올 음식점을 정하고 해당 음식점의 리뷰 데이터를 가져옴 [요기요]
 - 데이터를 txt파일로 만듦
-![제목 없음](https://user-images.githubusercontent.com/11437918/166906883-9945fa37-9eac-4eb9-a2cb-01b8bc553290.png)
 - 리뷰 데이터를 .csv 파일로 만듬
 ![image](https://user-images.githubusercontent.com/11437918/167057166-d26432e2-6e1b-4c18-853f-a3eb9a876af7.png)
 
