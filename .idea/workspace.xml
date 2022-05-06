@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3f0d2dd-8882-4b74-9b80-17615eec3e13" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/KakaoMapcrawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/데이터처리/reviewData2.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/데이터처리/Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/데이터처리/Analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KakaoMapcrawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/KakaoMapcrawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/데이터처리/reviewData2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/데이터처리/reviewData2.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
