@@ -12,6 +12,7 @@
 - 데이터를 txt파일로 만듦
 ![제목 없음](https://user-images.githubusercontent.com/11437918/166906883-9945fa37-9eac-4eb9-a2cb-01b8bc553290.png)
 - 리뷰 데이터를 .csv 파일로 만듬
+![image](https://user-images.githubusercontent.com/11437918/167057166-d26432e2-6e1b-4c18-853f-a3eb9a876af7.png)
 
 # 추가해야할 것
 - 
